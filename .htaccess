@@ -1,11 +1,7 @@
 RewriteEngine on
 # Cambiar tudominio.com a tu dominio principal.
-# entre los parentesis va el www. o http://
-
-RewriteCond %{HTTP_HOST} !^www\.
-RewriteRule ^(.*)$ http://www.%{HTTP_HOST}/$1 [R=301,L]
-
-RewriteCond %{HTTP_HOST} ^(www.)?www.calcularaguinaldo.com$
+RewriteCond %{HTTP_HOST} ^calcularaguinaldo.com$
+RewriteRule ^/?$ "http\:\/\/www\.calcularaguinaldo\.com\/" [R=301,L]
 
 <ifmodule mod_deflate.c>
 AddOutputFilterByType DEFLATE text/plain
