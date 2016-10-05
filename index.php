@@ -173,6 +173,12 @@
                      data-ad-client="ca-pub-3122338729474694"
                      data-ad-slot="4429109230"
                      data-ad-format="link"></ins>
+                 <!-- Solo enlaces adaptable -->
+                 <ins class="adsbygoogle"
+                      style="display:block"
+                      data-ad-client="ca-pub-3122338729474694"
+                      data-ad-slot="4429109230"
+                      data-ad-format="link"></ins>
             </div>
           </div>
         </div>
@@ -215,6 +221,7 @@
     </script>
     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
         (adsbygoogle = window.adsbygoogle || []).push({});
         (adsbygoogle = window.adsbygoogle || []).push({});
     </script>
