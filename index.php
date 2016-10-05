@@ -159,14 +159,20 @@
       <section class="signup-section text-center no-padding-bottom">
         <div class="container">
           <div class="row">
-            <div class="col-md-12">
+            <div class="col-md-6">
+                <ins class="adsbygoogle"
+                 style="display:block"
+                 data-ad-client="ca-pub-3122338729474694"
+                 data-ad-slot="4544777236"
+                 data-ad-format="auto"></ins>
+             </div>
+             <div class="col-md-6">
                 <!-- Solo enlaces adaptable -->
                 <ins class="adsbygoogle"
                      style="display:block"
                      data-ad-client="ca-pub-3122338729474694"
                      data-ad-slot="4429109230"
-                     data-ad-format="link"
-                     style="width:100%"></ins>
+                     data-ad-format="link"></ins>
             </div>
           </div>
         </div>
@@ -208,5 +214,9 @@
       ga('send', 'pageview');
     </script>
     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
   </body>
 </html>
