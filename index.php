@@ -7,7 +7,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Como calcular tu aguinaldo - Calcular aguinaldo</title>
-    <meta name="description" content="Como calcular tu aguinaldo 2016, aun no sabes cuanto te corresponde de aguinalo este año, En www.calcularaguinaldo.com te decimos como y cuano te corresponde.">
+    <meta name="description" content="Como calcular tu aguinaldo 2016, aun no sabes cuanto te corresponde de aguinalo este año, En www.calcularaguinaldo.com te decimos como y cuano te corresponde. El aguinaldo es una prestación que opr ley te corresponde">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="all,follow">
     <!-- Bootstrap-->
@@ -21,8 +21,6 @@
     <link rel="stylesheet" href="css/style.default.css" id="theme-stylesheet">
     <!-- plugins-->
     <link rel="stylesheet" href="css/simpletextrotator.css">
-    <!-- Custom stylesheet - for your changes-->
-    <link rel="stylesheet" href="css/custom.css">
     <!-- Favicon-->
     <link rel="shortcut icon" href="/img/favicon.ico">
     <!-- Tweaks for older IEs--><!--[if lt IE 9]>
@@ -39,7 +37,13 @@
                 <h4 class="modal-title text-center">Resultado para tu aguinaldo</h4>
               </div>
               <div class="modal-body">
-                <p class="text-center text-muted">El aguinaldo correspondiente es de: <b id="total_aguinaldo"></b>.</p>
+                <p class="text-center text-muted">El aguinaldo correspondiente es de: <b id="total_aguinaldo"></b></p>
+                <!-- Solo enlaces adaptable -->
+                <ins class="adsbygoogle"
+                     style="display:block"
+                     data-ad-client="ca-pub-3122338729474694"
+                     data-ad-slot="4429109230"
+                     data-ad-format="link"></ins>
               </div>
             </div>
           </div>
@@ -48,20 +52,20 @@
       <header class="header">
         <div role="navigation" class="navbar navbar-default navbar-fixed-top">
           <div class="container">
-            <div class="navbar-header"><a href="#all" class="navbar-brand scroll-to"><img src="img/logo.png" alt="logo" class="hidden-xs hidden-sm"><img src="img/logo-small.png" alt="logo" class="visible-xs visible-sm"><span class="sr-only">Go to homepage</span></a>
+            <div class="navbar-header"><a href="#all" class="navbar-brand scroll-to"><img src="img/logo.png" alt="logo calcular aguinaldo" height="60px"><span class="sr-only">Calcular aguinaldo</span></a>
               <div class="navbar-buttons">
                 <button type="button" data-toggle="collapse" data-target=".navbar-collapse" class="navbar-toggle navbar-btn">Menu<i class="pe-7s-menu"></i></button>
               </div>
             </div>
             <div id="navigation" class="collapse navbar-collapse navbar-right">
               <ul class="nav navbar-nav">
-                <li><a href="#intro" class="scroll-to">Inicio</a></li>
-                <li><a href="#text" class="scroll-to">Aguinaldo</a></li>
+                <li><a href="#inicio_aguinaldo" class="scroll-to">Inicio</a></li>
+                <li><a href="#informacion_aguinaldo" class="scroll-to">Aguinaldo</a></li>
             </div>
           </div>
         </div>
       </header>
-      <section id="intro" class="text-intro no-padding-bottom">
+      <section id="inicio_aguinaldo" class="text-intro no-padding-bottom">
         <div class="container">
           <div class="row">
             <div class="col-md-12">
@@ -109,7 +113,7 @@
       </section>
       <!--   *** CUSTOMERS END ***-->
       <!--   *** TEXT ***-->
-      <section id="text" class="text-page section-inverse background-secondary">
+      <section id="informacion_aguinaldo" class="text-page section-inverse background-secondary">
         <div class="container">
           <div class="row">
             <div class="col-md-12">
@@ -118,7 +122,7 @@
               <div class="row">
                 <div class="col-sm-6">
                   <p>
-                      El aguinaldo es una prestación anual que se describe en el artículo 87 de la Ley Federal del Trabajo, consiste en el pago de 15 días de salario, mismo que deberá pagarse antes del día 20 de diciembre de cada año.
+                      El <b>aguinaldo</b> es una prestación anual que se describe en el artículo 87 de la Ley Federal del Trabajo, consiste en el <b>pago de 15 días de salario</b>, mismo que deberá pagarse antes del día <b>20 de diciembre</b> de cada año.
                   </p>
                   <p>
                       Si aun no cumples con un año de servicios, o entraste en cualquier parte del año a trabajar, se te deberá de dar la parte proporcional a los dias trabajados.
@@ -186,12 +190,17 @@
     <!-- Google Analytics: change UA-XXXXX-X to be your site's ID.-->
     <!---->
     <script>
-      (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
-      function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
-      e=o.createElement(i);r=o.getElementsByTagName(i)[0];
-      e.src='//www.google-analytics.com/analytics.js';
-      r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
-      ga('create','UA-XXXXX-X');ga('send','pageview');
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-54256427-5', 'auto');
+      ga('send', 'pageview');
+    </script>
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
     </script>
   </body>
 </html>
