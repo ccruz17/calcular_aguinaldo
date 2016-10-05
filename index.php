@@ -173,6 +173,7 @@
                      data-ad-client="ca-pub-3122338729474694"
                      data-ad-slot="4429109230"
                      data-ad-format="link"></ins>
+                <br><br>
                  <!-- Solo enlaces adaptable -->
                  <ins class="adsbygoogle"
                       style="display:block"
