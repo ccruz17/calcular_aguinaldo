@@ -43,7 +43,8 @@
                      style="display:block"
                      data-ad-client="ca-pub-3122338729474694"
                      data-ad-slot="4429109230"
-                     data-ad-format="link"></ins>
+                     data-ad-format="link"
+                     style="width: 100%"></ins>
               </div>
             </div>
           </div>

@@ -143,10 +143,10 @@ function aguinaldo() {
             dataType: 'json',
         })
         .success(function( data ) {
-            (adsbygoogle = window.adsbygoogle || []).push({});
             if(data.result == 1) {
                 $('#total_aguinaldo').html(data.msg);
                 $('#get-started').modal('show');
+                (adsbygoogle = window.adsbygoogle || []).push({});
             }else {
                 show_errors_inline(data);
             }
