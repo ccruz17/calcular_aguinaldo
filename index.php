@@ -38,13 +38,6 @@
               </div>
               <div class="modal-body">
                 <p class="text-center text-muted">El aguinaldo correspondiente es de: <b id="total_aguinaldo"></b></p>
-                <!-- Solo enlaces adaptable -->
-                <ins class="adsbygoogle"
-                     style="display:block"
-                     data-ad-client="ca-pub-3122338729474694"
-                     data-ad-slot="4429109230"
-                     data-ad-format="link"
-                     style="width: 100%"></ins>
               </div>
             </div>
           </div>
@@ -163,6 +156,21 @@
         </div>
       </section>
       <!--   *** TEXT END ***-->
+      <section class="signup-section text-center no-padding-bottom">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12">
+                <!-- Solo enlaces adaptable -->
+                <ins class="adsbygoogle"
+                     style="display:block"
+                     data-ad-client="ca-pub-3122338729474694"
+                     data-ad-slot="4429109230"
+                     data-ad-format="link"
+                     style="width:100%"></ins>
+            </div>
+          </div>
+        </div>
+      </section>
       <!--   *** FEATURES END ***  -->
       <footer class="footer">
         <div class="footer__copyright">
