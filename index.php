@@ -193,10 +193,10 @@
                       <p>&copy;2016 www.calcularaguinaldo.com</p>
                   </div>
                   <div class="col-md-4 text-center">
-                      <p><a href="http://www.vermiip.com.mx">Conoce cual es tu dirección IP</a></p>
+                      <p><a href="https://www.vermiip.com.mx">Conoce cual es tu dirección IP</a></p>
                   </div>
                   <div class="col-md-4">
-                      <p class="credit pull-right">Creado por <a href="http://wwww.ccruz.ga" class="external">CCRUZ</a></p>
+                      <p class="credit pull-right">Creado por <a href="https://www.ccruz.me" class="external">CCRUZ</a></p>
                   </div>
               </div>
           </div>
